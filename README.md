@@ -32,7 +32,7 @@ To run the e-commerce-TechPlus project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/e-commerce-TechPlus.git
+git clone https://github.com/zeineb23/e-commerce-TechPlus.git
 ```
 
 2. Import the database:
