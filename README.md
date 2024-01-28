@@ -13,7 +13,7 @@ Welcome to e-commerce-TechPlus, your one-stop shop for all your tech needs! This
 
 ## Description
 
-e-commerce-TechPlus is an e-commerce website designed for TechPlus, an imaginary tech store offering a wide range of products, including electronics, gadgets, and accessories. The platform provides users with an intuitive interface to browse products, add them to their cart, and place orders seamlessly.
+e-commerce-TechPlus is an e-commerce website designed for TechPlus, an imaginary tech store offering a wide range of products, including phones, tablets, and laptops. The platform provides users with an intuitive interface to browse products, add them to their cart, and place orders seamlessly.
 
 Administrators have access to the admin panel, where they can manage the product inventory. This includes adding new products, updating existing ones, and removing products that are no longer available.
 
